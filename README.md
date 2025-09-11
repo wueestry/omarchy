@@ -4,6 +4,14 @@ Turn a fresh Arch installation into a fully-configured, beautiful, and modern we
 
 Read more at [omarchy.org](https://omarchy.org).
 
+## Installation
+
+```bash
+git clone https://github.com/wueestry/omarchy
+cd omarchy
+bash boot.sh
+```
+
 ## License
 
 Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).

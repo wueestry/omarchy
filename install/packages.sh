@@ -1,9 +1,6 @@
 #!/bin/bash
 
 sudo pacman -S --noconfirm --needed \
-  1password-beta \
-  1password-cli \
-  asdcontrol-git \
   alacritty \
   avahi \
   bash-completion \
@@ -52,13 +49,11 @@ sudo pacman -S --noconfirm --needed \
   inetutils \
   iwd \
   jq \
-  kdenlive \
   kvantum-qt5 \
   lazydocker \
   lazygit \
   less \
   libqalculate \
-  libreoffice \
   llvm \
   localsend \
   luarocks \
@@ -74,7 +69,6 @@ sudo pacman -S --noconfirm --needed \
   noto-fonts-extra \
   nss-mdns \
   nvim \
-  obs-studio \
   obsidian \
   omarchy-chromium \
   pamixer \
@@ -91,9 +85,7 @@ sudo pacman -S --noconfirm --needed \
   qt5-wayland \
   ripgrep \
   satty \
-  signal-desktop \
   slurp \
-  spotify \
   starship \
   sushi \
   swaybg \
