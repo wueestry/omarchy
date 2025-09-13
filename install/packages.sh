@@ -3,7 +3,6 @@
 sudo pacman -S --noconfirm --needed \
   alacritty \
   avahi \
-  bash-completion \
   bat \
   blueberry \
   brightnessctl \
